@@ -4,3 +4,8 @@
 **Manuscript**: See [Transportation Research Part C: Emerging Technologies](https://doi.org/10.1016/j.trc.2024.104767) and also [arXiv](https://doi.org/10.48550/arXiv.2404.14701).
 
 **Raw data**: See [Google Drive](https://drive.google.com/drive/folders/1-WH13Y4kIGVMlarezF0WwCxAKGU5tHHW?usp=sharing).
+
+**Note**:
+- R0_code contains the Python scripts used in the manuscript when it was first submitted
+- R1_code contains the Python scripts added during the first round of review
+- R2_code contains the Python scripts added during the second round of review
