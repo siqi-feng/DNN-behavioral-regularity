@@ -10,3 +10,5 @@ See [Google Drive](https://drive.google.com/drive/folders/1-WH13Y4kIGVMlarezF0Ww
 
 ## Code
 Each folder contains multiple Python scripts and the processed data: “R0_code” was used in the manuscript when it was first submitted, “R1_code” was used in the manuscript after the first round of review, and “R2_code” was added as a supplement to “R1_code” during the second round of review.
+
+Note: Updates to [pandas](https://pandas.pydata.org) can affect the data processing results. For reproducibility, an older pandas version (such as 2.0.3) should be used.
